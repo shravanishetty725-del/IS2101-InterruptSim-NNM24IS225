@@ -74,7 +74,3 @@ If all devices are masked:
 ```
 All devices masked → No interrupt handled
 ```
-
-
-Would you like me to make a **short version (for college report)** — like one-page summary format (less explanation, more bullet points)?
-```
